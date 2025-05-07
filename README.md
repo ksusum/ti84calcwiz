@@ -45,7 +45,7 @@ TI84Calculator Online includes the following features:
 To use TI84Calculator Online:
 
 1.  **Open in Your Browser:**
-    *   Navigate to [https://your-online-calculator-url.com](https://your-online-calculator-url.com) (replace with the actual URL of your deployed calculator).
+    *   Navigate to [https://ti84calc.io/](https://ti84calc.io/) 
 
 2.  **Interact with the Calculator:**
     *   Use the on-screen virtual keyboard to enter numbers, operators, and functions.
@@ -105,9 +105,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions, bug reports, or feature requests, please open an issue on the [Issues](https://github.com/yourusername/TI84Calculator-Online/issues) page.
+For questions, bug reports, or feature requests, please open an issue on the [Issues](https://github.com/ksusum/ti84calcwiz/issues) page.
 
-You can also contact the project maintainer at: your.email@example.com
+You can also contact the project maintainer at: info@ti84calc.io
 
 ## Acknowledgements
 
